@@ -6,5 +6,5 @@
 ## How to run
 Ensure python is installed on your machine.\
 Run `pip install pygame` to install pygame lib to python globally.\
-Then run each game with `"path to python.exe" "path to file"`
+Then run each game with `py .\"game".py`
 
